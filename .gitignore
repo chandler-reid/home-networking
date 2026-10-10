@@ -54,3 +54,9 @@ app.*.map.json
 /unifi/data/mongo/collection*
 /unifi/data/mongo/index*
 /unifi/data/unifi/logs
+unifi/data/mongo/WiredTiger.turtle
+unifi/data/mongo/WiredTiger.wt
+unifi/data/mongo/sizeStorer.wt
+unifi/data/unifi/data/firmware.json
+unifi/data/unifi/data/system.properties
+unifi/data/unifi/data/system.properties.bk
