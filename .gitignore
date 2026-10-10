@@ -46,3 +46,11 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+
+# Unifi Resources
+/unifi/data/mongo/journal
+/unifi/data/mongo/diagnostic.data/
+/unifi/data/mongo/collection*
+/unifi/data/mongo/index*
+/unifi/data/unifi/logs
